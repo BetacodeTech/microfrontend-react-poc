@@ -1,0 +1,15 @@
+[33mStarting up http-server, serving [39m[36mreact-project/build[39m[33m[39m
+[33mAvailable on:[39m
+  http://127.0.0.1:[32m9090[39m
+  http://192.168.2.67:[32m9090[39m
+Hit CTRL-C to stop the server
+[2020-09-23T15:45:29.626Z]  "[36mGET[39m [36m/[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+[2020-09-23T15:45:29.677Z]  "[36mGET[39m [36m/static/css/2.d9ad5f5c.chunk.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+[2020-09-23T15:45:29.682Z]  "[36mGET[39m [36m/static/css/main.b61614aa.chunk.css[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+[2020-09-23T15:45:29.682Z]  "[36mGET[39m [36m/static/js/2.1f17423e.chunk.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+[2020-09-23T15:45:29.684Z]  "[36mGET[39m [36m/static/js/main.7c70ab91.chunk.js[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+[2020-09-23T15:45:29.715Z]  "[36mGET[39m [36m/static/media/logo.5d5d9eef.svg[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+[2020-09-23T15:45:29.784Z]  "[36mGET[39m [36m/manifest.json[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+[2020-09-23T15:45:29.785Z]  "[36mGET[39m [36m/favicon.ico[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+[2020-09-23T15:45:29.791Z]  "[36mGET[39m [36m/logo192.png[39m" "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/85.0.4183.102 Safari/537.36"
+[31mhttp-server stopped.[39m
